@@ -102,7 +102,6 @@ Feel free to reach out to me through any of the following platforms:
 - **Email:** [saadfaisal065@gmail.com](mailto:saadfaisal065@gmail.com)
 - **Phone:** (+92) 310 6568194
 - **LinkedIn:** [Saad Faisal](https://www.linkedin.com/in/saad-faisal-3a60a8262)
-- **GitHub:** [SaadFaisal65](https://github.com/saadfaisal65)
 - **Facebook:** [Facebook](https://www.facebook.com/?ref=homescreenpwa)
 - **Instagram:** [Instagram](https://www.instagram.com/saad__faisal_/)
 - **GitHub:** [GitHub](https://github.com/saadfaisal65)
