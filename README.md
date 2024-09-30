@@ -19,7 +19,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 ## Demo
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://saadfaisal65-portfolio.netlify.app/) <!-- Replace `#` with your live site URL when available -->
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://saadfaisal-my-portfolio.netlify.app/) <!-- Replace `#` with your live site URL when available -->
 
 ## Features
 
